@@ -113,7 +113,7 @@ display: none;
 /* ************start landing section****************** */
 
 .landing{
-    background-image: url(/imdes/kristina-schmid-EyBKbpPCW7A-unsplash.jpg);
+    background-image: url(imdes/kristina-schmid-EyBKbpPCW7A-unsplash.jpg);
     background-size: cover;
     height: calc(100vh - 64px);
     margin: 0;
